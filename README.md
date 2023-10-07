@@ -30,6 +30,11 @@ pip install -r requirements.txt
 uvircorn main:app --reload
 ```
 
+### Test
+```
+curl -X POST -H "Content-Type: application/json" -d '{"message": "Hello, ChatGPT!"}' http://localhost:8000/chat
+```
+
 
 
 
