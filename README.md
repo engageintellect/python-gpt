@@ -1,7 +1,7 @@
 # python-gpt
 
 ## Getting Started
-Clone Repository
+Clone Repository (or use the template to create your own repository)
 ```
 git clone https://github.com/engageintellect/python-gpt.git
 ```
