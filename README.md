@@ -15,7 +15,7 @@ sudo nvim /etc/python-gpt.json
 It should look something like this:
 ```
 {
-		"OPENAI_API_KEY": "<your key here>"
+	"OPENAI_API_KEY": "<your key here>"
 }
 ```
 ```
