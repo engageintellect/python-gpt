@@ -3,6 +3,8 @@ from typing import Dict
 import json
 import openai
 
+
+# Load your OpenAI API key from a config file
 with open ('/etc/python-gpt.json') as config_file:
    config = json.load(config_file)
 
